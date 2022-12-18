@@ -1,0 +1,7 @@
+requests
+Pillow
+transformers
+python-telegram-bot===20.0b0
+openai
+python-dotenv
+torch
